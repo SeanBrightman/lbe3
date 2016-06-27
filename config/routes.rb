@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  root 'index'
+  root 'home#index'
 end
